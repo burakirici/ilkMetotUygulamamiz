@@ -1,0 +1,10 @@
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/ilkMetotUygulamamiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/ilkMetotUygulamamiz.AssemblyInfoInputs.cache
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/ilkMetotUygulamamiz.AssemblyInfo.cs
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/ilkMetotUygulamamiz.csproj.CoreCompileInputs.cache
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/bin/Debug/net8.0/ilkMetotUygulamamiz
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/bin/Debug/net8.0/ilkMetotUygulamamiz.dll
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/bin/Debug/net8.0/ilkMetotUygulamamiz.pdb
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/ilkMetotUygulamamiz.dll
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/refint/ilkMetotUygulamamiz.dll
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/ilkMetotUygulamamiz.pdb
