@@ -8,3 +8,4 @@
 /Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/ilkMetotUygulamamiz.dll
 /Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/refint/ilkMetotUygulamamiz.dll
 /Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/ilkMetotUygulamamiz.pdb
+/Users/burakkirici/Desktop/Çalışamalar/ilkMetotUygulamamiz/ilkMetotUygulamamiz/obj/Debug/net8.0/ilkMetotUygulamamiz.sourcelink.json
